@@ -1,0 +1,17 @@
+.bar{
+    justify-content:center;
+    padding: 50px;
+    width: 250px;
+    position: fixed;
+    top: -1%;
+    left: 36%;
+    
+}
+.buton{
+    justify-content:center;
+    margin: 50px;
+    width: 250px;
+    position: fixed;
+    top: 8%;
+    left: 40%;
+}

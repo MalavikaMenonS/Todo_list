@@ -1,0 +1,17 @@
+.signin{
+   background-color: rgb(67, 208, 213); 
+   justify-content:center;
+   padding: 50px;
+   width: 250px;
+   /* margin: auto; */
+   position: fixed;
+   top: 25%;
+   left: 36%;
+   border: 2px black solid;
+   border-radius: 25px;
+   box-shadow: 10px 10px 10px grey;
+}
+.heading{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+}
